@@ -20,7 +20,7 @@ Telefone: +55 (11) 98349-9317
 |programação em C| Basico|
 |programação em Python| Basico|
 |eletrônica| intermediario|
-|usinagem| Avançado|
+|usinagem | Avançado|
 
 
 
