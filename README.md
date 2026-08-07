@@ -6,6 +6,7 @@ Sou estudante de tecnologia em automação industrial pela FATEC OSASCO e tecnic
 **e-mail profissional:** bevenutoss07@gmail.com
 
 **Telefone:** `+55 (11) 98349-9317`
+
 [linkedin]()
 
 
