@@ -7,7 +7,8 @@ Sou estudante de tecnologia em automação industrial pela FATEC OSASCO e tecnic
 
 **Telefone e whatsApp 📱:** `+55 (11) 98349-9317`
 
-[linkedin]()
+[linkedin](https://www.linkedin.com/in/heithor-bevenuto-838746317?utm_source=share_via&utm_content=profile&utm_medium=member_android
+)
 
 
 ## Linguas 🗣️
