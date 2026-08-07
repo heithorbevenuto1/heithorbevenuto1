@@ -2,7 +2,7 @@
 
 Sou estudante de tecnologia em automação industrial pela FATEC OSASCO e tecnico em desencolvimento de sistemas pelo SENAI LEOPOLDINA. Formado em tecnico em mecatrônica pela ETEC Basilides de Godoy
 
-## contato
+## contato ☎️
 **e-mail profissional ✉️:** bevenutoss07@gmail.com
 
 **Telefone e whatsApp 📱:** `+55 (11) 98349-9317`
@@ -16,7 +16,7 @@ Sou estudante de tecnologia em automação industrial pela FATEC OSASCO e tecnic
 - Espanhol avançado
 
 
-### HABILIDADES
+## HABILIDADES 🥷
 
 |habilidade |nivel |
 |-----------|------|
@@ -26,7 +26,7 @@ Sou estudante de tecnologia em automação industrial pela FATEC OSASCO e tecnic
 |eletrônica| intermediario|
 |usinagem | Avançado|
 
-## freelancer
+## freelancer 🧑‍🏭
 
 - **AutoCAD**
 
