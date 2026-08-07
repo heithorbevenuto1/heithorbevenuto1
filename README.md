@@ -3,7 +3,7 @@
 
 
 ## contato
-e-mail profissional: bevenutoss07@gamil.com
+e-mail profissional: bevenutoss07@gmail.com
 Telefone: +55 (11) 98349-9317
 
 ## Linguas
