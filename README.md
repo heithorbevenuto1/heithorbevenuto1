@@ -1,16 +1,32 @@
-## Hi there 👋
+## OLÁ, ME CHAMO HEITHOR BEVENUTO
 
-<!--
-**heithorbevenuto1/heithorbevenuto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## contato
+e-mail profissional: bevenutoss07@gamil.com
+Telefone: +55 (11) 98349-9317
+
+## Linguas
+
+- Português nativo  
+- Espanhol avançado
+
+
+### HABILIDADES
+
+|habilidade |nivel |
+|-----------|------|
+|AutoCad    |Intermediaario|
+|programação em C| Basico|
+|programação em Python| Basico|
+|eletrônica| intermediario|
+|usinagem| Avançado|
+
+
+
+
+
+
+
+
+
