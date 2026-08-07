@@ -3,14 +3,14 @@
 Sou estudante de tecnologia em automação industrial pela FATEC OSASCO e tecnico em desencolvimento de sistemas pelo SENAI LEOPOLDINA. Formado em tecnico em mecatrônica pela ETEC Basilides de Godoy
 
 ## contato
-**e-mail profissional:** bevenutoss07@gmail.com
+**e-mail profissional ✉️:** bevenutoss07@gmail.com
 
-**Telefone:** `+55 (11) 98349-9317`
+**Telefone e whatsApp 📱:** `+55 (11) 98349-9317`
 
 [linkedin]()
 
 
-## Linguas
+## Linguas 🗣️
 
 - Português nativo  
 - Espanhol avançado
@@ -28,6 +28,14 @@ Sou estudante de tecnologia em automação industrial pela FATEC OSASCO e tecnic
 
 ## freelancer
 
+- **AutoCAD**
+
+|tipo|valor|
+|----|-----|
+|visão 2D simples|R$ 100|
+|visão 2D complexa|R$170|
+|visão isometrica simples|R$140|
+|visão isométrica complexa|R$230|
 
 
 
