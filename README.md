@@ -23,7 +23,8 @@ Sou estudante de tecnologia em automação industrial pela FATEC OSASCO e tecnic
 |-----------|------|
 |AutoCad    |Intermediaario|
 |programação em C| Basico|
-|programação em Python| Basico|
+|programação em Python| Intermediario|
+|Programação em lua| basico
 |eletrônica| intermediario|
 |usinagem | Avançado|
 
@@ -37,6 +38,7 @@ Sou estudante de tecnologia em automação industrial pela FATEC OSASCO e tecnic
 |visão 2D complexa|R$170|
 |visão isometrica simples|R$140|
 |visão isométrica complexa|R$230|
+
 
 
 
