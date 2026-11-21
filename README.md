@@ -21,23 +21,14 @@ Sou estudante de tecnologia em automação industrial pela FATEC OSASCO e tecnic
 
 |habilidade |nivel |
 |-----------|------|
-|AutoCad    |Intermediaario|
+|AutoCad    |basico|
 |programação em C| Basico|
 |programação em Python| Intermediario|
 |Programação em lua| basico
 |eletrônica| intermediario|
-|usinagem | Avançado|
+|usinagem | Basico|
 
-## freelancer 🧑‍🏭
 
-- **AutoCAD**
-
-|tipo|valor|
-|----|-----|
-|visão 2D simples|R$ 100|
-|visão 2D complexa|R$170|
-|visão isometrica simples|R$140|
-|visão isométrica complexa|R$230|
 
 
 
